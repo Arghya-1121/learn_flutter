@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "97381ff65adda437",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f30dad0c03910c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ebda96b9f1f06a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a7dfb4debc9c879",
+    "type": "split",
+    "children": [
+      {
+        "id": "601ed9e2ffdddff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8318e32f8069edd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32c7f7f75ca6d355",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "688360e45ba836fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6e0431f29574660",
+    "type": "split",
+    "children": [
+      {
+        "id": "9183a5e47ddbca43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6eeba9c766943fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1d02f51e31e6790b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5b3bdc431b171284",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f72b730d819028da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ebda96b9f1f06a0",
+  "lastOpenFiles": [
+    "0. Flutter.md",
+    "11. Advanced Topics.md",
+    "10. Testing.md",
+    "9. App Deployment.md",
+    "8. User Authentication.md",
+    "7. Databases and Local Storage.md",
+    "-1. College Syllabus.md",
+    "6. Working with APIs.md",
+    "5. Flutter App Lifecycle.md",
+    "4. Navigation and Routing.md",
+    "3. Layouts and UI Design.md",
+    "2. Widgets in Flutter.md",
+    "1. Flutter Basics.md",
+    "Dart.md",
+    "1..md",
+    "1.Flutter.md",
+    "1. Flutter Basic.md",
+    "[.md",
+    "().md"
+  ]
+}
